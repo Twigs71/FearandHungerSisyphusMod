@@ -1,0 +1,12 @@
+{
+    "name": "Fear & Hunger Sisyphus MOD",
+    "main": "www/index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "www/icon/Sisyphus Icon.png"
+    }
+}
